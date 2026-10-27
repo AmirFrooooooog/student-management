@@ -1,0 +1,4 @@
+Student Email Validation
+
+Every student must provide a valid email address.
+Email addresses must contain the @ symbol.
