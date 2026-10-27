@@ -1,0 +1,6 @@
+Student Registration Guide
+
+1. Enter the student's name.
+2. Enter the student's email address.
+3. Check that the email address is valid.
+4. Save the student information.
